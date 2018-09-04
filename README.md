@@ -12,20 +12,20 @@ List of resources useful to run a personal server.
 
 ## Applications
 
-* [Syncthing](https://syncthing.net) - File synchronization
-* [Radicale](https://radicale.org) - CalDAV / CardDAV server
 * [Ghost](https://ghost.org) - Blogging
+* [Radicale](https://radicale.org) - CalDAV / CardDAV server
+* [Syncthing](https://syncthing.net) - File synchronization
 
 ## Hardware
 
 
 ### Singleboard
 
-* [Olimex A20 Lime2](https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/open-source-hardware)
-* [Raspberry Pi  3+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
-* [Pine64](https://www.pine64.org/?page_id=61454)
 * [Asus Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/)
 * [ODroid XU4](https://www.odroid.co.uk/hardkernel-odroid-xu4)
+* [Olimex A20 Lime2](https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/open-source-hardware)
+* [Pine64](https://www.pine64.org/?page_id=61454)
+* [Raspberry Pi  3+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
 
 ### Barebone
 
@@ -43,8 +43,8 @@ List of resources useful to run a personal server.
 
 ## Hosting Providers
 
-* [OVH VPS](https://www.ovh.com/world/vps/)
 * [Digital Ocean VPS](https://www.digitalocean.com/products/droplets/)
+* [OVH VPS](https://www.ovh.com/world/vps/)
 * [Scaleway VPS](https://www.scaleway.com/virtual-cloud-servers/)
 
 ## Information
