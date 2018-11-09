@@ -6,18 +6,47 @@ List of resources useful to run a personal server.
 ## Platforms
 
 * [FreedomBox](https://freedomboxfoundation.org)
+* [HomelabOS](https://gitlab.com/NickBusey/HomelabOS)
 * [Nextcloud](https://nextcloud.com)
 * [Sandstorm](https://sandstorm.io)
 * [Yunohost](https://yunohost.org)
 
 ## Applications
 
-* [Ghost](https://ghost.org) - Blogging
-* [Radicale](https://radicale.org) - CalDAV / CardDAV server
+
+### Blogs
+
+* [Ghost](https://ghost.org)
+* [Wordpress](https://wordpress.com)
+
+### Files
+
 * [Syncthing](https://syncthing.net) - File synchronization
+* [Paperless](https://github.com/danielquinn/paperless) - Document archiving
+* [Paperwork](https://openpaper.work/en-us/) - Document archiving
+
+### Emails
+
+* [Roundcube](https://roundcube.net/) - Roundcube
+* [Rainloop](https://www.rainloop.net/) - Rainloop
+
+### Home
+
+* [OpenHab](https://www.openhab.org/)
+
+### Utils
+
+* [Gitea](https://gitea.io) - Lightweight Git repos
+* [Koel](https://koel.phanan.net/) - Music Streaming Server
+* [Kresus](http://kresus.org/) - Finance Manager
+* [Miniflux](https://miniflux.app/) - Feed Reader
+* [MonicaHQ](https://www.monicahq.com/) - Contact Manager 
+* [Radicale](https://radicale.org) - CalDAV / CardDAV server
+* [The Lounge](https://thelounge.chat/) - IRC Client
+* [Tiddlywiki](https://tiddlywiki.com/) - Wiki 
+* [Wallabag](https://wallabag.org) - Read it later
 
 ## Hardware
-
 
 ### Singleboard
 
